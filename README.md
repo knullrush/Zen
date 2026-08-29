@@ -19,9 +19,11 @@
 ## LEL
 <details>
   <summary>  </summary>
-<img width="1097" height="900" alt="image" src="https://github.com/user-attachments/assets/a251186b-9987-4063-b2a3-3be404caaeda" />
+<img width="1045" height="886" alt="image" src="https://github.com/user-attachments/assets/defac1a1-8f32-4f85-b01e-0ff64d6ca034" />
   
-<img width="942" height="880" alt="image" src="https://github.com/user-attachments/assets/3de9eee0-401a-41f6-a3de-2064238c045b" />
+<img width="1077" height="830" alt="image" src="https://github.com/user-attachments/assets/d9d20067-6595-4e35-b039-8dd1bed8eb67" />
 
-<img width="902" height="873" alt="image" src="https://github.com/user-attachments/assets/129d1f2e-db4b-4aa7-b019-214b5d4b41e7" />
+<img width="1033" height="830" alt="image" src="https://github.com/user-attachments/assets/6a62c979-67ea-4c96-bb32-b6ec628f62fd" />
+
+<img width="933" height="255" alt="image" src="https://github.com/user-attachments/assets/0b7993de-141f-47e7-87d2-7c649c52f457" />
 </details>
