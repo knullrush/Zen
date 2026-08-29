@@ -1,7 +1,6 @@
 # Zen Client Leak
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/617c4dbf-0706-4a57-96ee-fd4881a5c363" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/606050b1-0f81-40b3-a25e-0c2c759830b9" />
 
 ## Installation
 
